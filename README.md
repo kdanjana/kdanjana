@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Anjana Devi!
 
-<!--
-**kdanjana/kdanjana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Developer | Python | AWS | LLM Applications
 
-Here are some ideas to get you started:
+I'm a Software Engineer with 2+ years of experience building production-grade applications, scalable backend systems and AI-powered solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building applications that combine backend engineering, cloud technologies and Generative AI to solve real-world problems.
+
+### 💻 Technical Skills
+
+- **Languages:** Python, SQL, JavaScript
+- **Backend:** Django, Django REST Framework, FastAPI, REST APIs
+- **Frontend:** React
+- **AI & Generative AI:** Amazon Bedrock, Claude, Titan Embeddings, RAG, LangChain, LangGraph
+- **Databases:** PostgreSQL, MySQL, pgvector
+- **Cloud & DevOps:** AWS, Azure, Docker, Kubernetes, GitHub Actions, CI/CD
+
+### ☁️ Certifications
+
+- AWS Certified Solutions Architect – Professional
+- AWS Certified Solutions Architect – Associate
+- AWS Certified Developer – Associate
+- Certified Kubernetes Administrator (CKA)
+- Certified Kubernetes Application Developer (CKAD)
+
+### 🚀 What I'm Interested In
+
+- Building production-ready LLM applications
+- Retrieval-Augmented Generation (RAG)
+- AI agents and workflow orchestration
+- Scalable backend and distributed systems
+- Cloud-native application development
+
+### 📫 Connect With Me
+- **LinkedIn:** [https://www.linkedin.com/in/kanjanadevi/]
