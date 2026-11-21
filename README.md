@@ -2,9 +2,11 @@
 
 ### Full Stack Developer | Python | AWS | LLM Applications
 
-I'm a Software Engineer with 2+ years of experience building production-grade applications, scalable backend systems and AI-powered solutions.
+I'm a Software Engineer with 2+ years of experience building production-grade applications, scalable backend systems, and AI-powered solutions.
 
-I enjoy building applications that combine backend engineering, cloud technologies and Generative AI to solve real-world problems.
+My experience includes developing backend services using Python and Django, building cloud-native applications on AWS, and implementing LLM-powered workflows using Amazon Bedrock, RAG, and LangGraph.
+
+I'm passionate about combining backend engineering, cloud technologies, and Generative AI to solve real-world problems.
 
 ### 💻 Technical Skills
 
