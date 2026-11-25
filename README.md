@@ -1,12 +1,18 @@
 # Hi, I'm Anjana Devi!
 
-### Full Stack Developer | Python | AWS | LLM Applications
+**Software engineer building LLM applications on AWS** · Python · Django · Amazon Bedrock
 
 I'm a Software Engineer with 2+ years of experience building production-grade applications, scalable backend systems, and AI-powered solutions.
 
 My experience includes developing backend services using Python and Django, building cloud-native applications on AWS, and implementing LLM-powered workflows using Amazon Bedrock, RAG, and LangGraph.
 
 I'm passionate about combining backend engineering, cloud technologies, and Generative AI to solve real-world problems.
+
+
+## Projects
+- **[Company Knowledge Hub](https://github.com/kdanjana/company-knowledge-hub)**: a RAG chat that audits its own documents for contradictions before answering. Django, React/TypeScript, Postgres + pgvector, Claude on Bedrock, LangGraph. Evaluated against an answer key of planted conflicts and look-alike traps.
+- **[LLM Gateway]([https://github.com/kdanjana/company-llm-gateway.git])**: routes AI requests by department API key, tracks tokens, cost and latency, enforces monthly budgets, masks personal data before model calls.
+
 
 ### 💻 Technical Skills
 
