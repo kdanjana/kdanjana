@@ -11,7 +11,7 @@ I'm passionate about combining backend engineering, cloud technologies, and Gene
 
 ## Projects
 - **[Company Knowledge Hub](https://github.com/kdanjana/company-knowledge-hub)**: a RAG chat that audits its own documents for contradictions before answering. Django, React/TypeScript, Postgres + pgvector, Claude on Bedrock, LangGraph. Evaluated against an answer key of planted conflicts and look-alike traps.
-- **[LLM Gateway]([https://github.com/kdanjana/company-llm-gateway.git])**: routes AI requests by department API key, tracks tokens, cost and latency, enforces monthly budgets, masks personal data before model calls.
+- **[LLM Gateway](https://github.com/kdanjana/company-llm-gateway)**: routes AI requests by department API key, tracks tokens, cost and latency, enforces monthly budgets, masks personal data before model calls.
 
 
 ### 💻 Technical Skills
